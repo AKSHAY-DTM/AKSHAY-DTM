@@ -34,12 +34,13 @@
   
 ### 💻 Workspace Spec
 
-<img  height="30"  src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/> <img  height="30"  src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img  height="30"  src="https://img.shields.io/badge/AMD-Ryzen_5_6600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img  height="30"  src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>  <img  height="30"  src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img  height="30"  src="https://img.shields.io/badge/AMD-Ryzen_5_6600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
   
 ### 🧩 Leetcode Status
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AKSHAY_SS?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/AKSHAY_SS)
+
 
 
 
