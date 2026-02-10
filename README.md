@@ -9,7 +9,9 @@
 - 💻 Exploring DSA while incorporating AI into my daily workflow
 - 📫 How to reach me : [akshaydtm@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=akshaydtm@gmail.com&su=Hello%20Akshay%20DTM)
 - 🌍 Social Presence
- <br/> [<img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  />](https://x.com/AKSHAY_DTM) <br  /> [<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />](https://www.linkedin.com/in/akshaydtm/)
+ <br/>
+ [<img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  />](https://x.com/AKSHAY_DTM) 
+ [<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />](https://www.linkedin.com/in/akshaydtm/)
 [<img  src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"  />](https://discord.com/users/1435909874218303540)
 [<img  src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"  />](https://t.me/akshaydtm)
 
@@ -25,16 +27,17 @@
 
 ### 💻 IDE and Tools I Use
 
-<img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" /><img  height="50"  width="50"  src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/spyder-ide-5.png" /><img  height="50"  width="50"  src="https://img.icons8.com/color/50/000000/git.png"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" /><img  height="50"  width="50"  src="https://img.icons8.com/color/480/null/notion--v1.png"  /><img  height="50"  width="50"  src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/><img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img  height="50"  width="50"  src="https://img.icons8.com/color/48/microsoft-excel-2025.png"  /><img  height="50"  width="50"  src="https://img.icons8.com/fluency/48/power-bi-2021.png"  /><img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" />
+<img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" /><img  height="50"  width="50"  src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/spyder-ide-5.png" /><img  height="50"  width="50"  src="https://img.icons8.com/color/50/000000/git.png"/><img  height="50"  width="50"  src="https://img.icons8.com/color/480/null/notion--v1.png"  /><img  height="50"  width="50"  src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/><img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img  height="50"  width="50"  src="https://img.icons8.com/color/48/microsoft-excel-2025.png"  /><img  height="50"  width="50"  src="https://img.icons8.com/fluency/48/power-bi-2021.png"  /><img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" />
 
   
   
 ### 💻 Workspace Spec
 
-<img  height="30"  src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/><img  height="30"  src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><img  height="30"  src="https://img.shields.io/badge/AMD-Ryzen_5_6600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img  height="30"  src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/> <img  height="30"  src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img  height="30"  src="https://img.shields.io/badge/AMD-Ryzen_5_6600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
   
 ### 🧩 Leetcode Status
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AKSHAY_SS?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/AKSHAY_SS)
+
 
