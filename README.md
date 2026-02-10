@@ -6,6 +6,7 @@
 
 ### Software Engineer @ Earth
 
+
 - 💻 Exploring DSA while incorporating AI into my daily workflow
 - 📫 How to reach me : [akshaydtm@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=akshaydtm@gmail.com&su=Hello%20Akshay%20DTM)
 - 🌍 **Social Presence**
@@ -39,6 +40,7 @@
 ### 🧩 Leetcode Status
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AKSHAY_SS?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/AKSHAY_SS)
+
 
 
 
