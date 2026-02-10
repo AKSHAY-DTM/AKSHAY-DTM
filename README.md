@@ -10,13 +10,10 @@
 - 📫 How to reach me : [akshaydtm@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=akshaydtm@gmail.com&su=Hello%20Akshay%20DTM)
 - 🌍 **Social Presence**
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AKSHAY_DTM)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaydtm/)
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1435909874218303540)
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akshaydtm)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AKSHAY_DTM)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaydtm/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1435909874218303540)
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akshaydtm)
 
   
   
@@ -42,6 +39,7 @@
 ### 🧩 Leetcode Status
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AKSHAY_SS?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/AKSHAY_SS)
+
 
 
 
